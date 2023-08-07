@@ -1,0 +1,11 @@
+$primary : #3cb48c;
+$secondary : #f98b9b;
+
+// avec NPM :
+// `npm i sass -D`
+// `npm i bootstrap`
+@import 'bootstrap/scss/bootstrap';
+
+// avec NPM :
+// `npm i @fortawesome/fontawesome-free`
+@import '@fortawesome/fontawesome-free/css/all.min.css';
